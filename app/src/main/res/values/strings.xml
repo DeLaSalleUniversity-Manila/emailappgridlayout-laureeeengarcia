@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GridLayoutDemo</string>
+    <string name="start">Send to: </string>
+    <string name="hint">Please enter email address</string>
+    <string name="message">Write message</string>
+    <string name="send">SEND!</string>
+    <string name="action_settings">Settings</string>
+</resources>
